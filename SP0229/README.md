@@ -56,19 +56,19 @@ Study pods is an initiative taken by DSC MBM to promote peer-to-peer learning am
 
 ## SP02__
 
-SP02__ is an amazing team built by the efforts of its team members and the support of its mentors
+SP0229 is an amazing team built by the efforts of its team members and the support of its mentors
 
 ### Team
 
-Person1<br>
-Person2<br>
-Person3<br>
+Tushar Gupta<br>
+Sayandeep Das<br>
+Nisha Gehlot<br>
 Person4<br>
 Person5
 
 ### Mentor
 
-Mentor1
+K.Shreenath Bohra
 
 ## Daily Logs
 
@@ -81,10 +81,13 @@ The log should follow this structure
 ```
 Date:
 
-  Team Member1:
+  Tushar Gupta:
 
     What have you done today:
     Blockers/Challenegs you have faced:
+
+	issue 1. - power consumption issue 
+	issue 2. - heavy weight fo robot
 
   Team Member2:
 
@@ -115,7 +118,7 @@ This section contains the details about the different projects made by the team.
 ### Project 1
 
 <!-- Add the summary of the project along with the link to the markdown file for the project. Check out the Sample Project.md to get the idea of the structure of the Project file.
--->
+-->  As the project name suggests TWR (Teleoperated wheeled Robot) is a terrain semi-autonomous robot which is controlled by an android app via bluetooth connectivity.
 
 ### Project 2
 
