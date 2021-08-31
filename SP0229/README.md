@@ -115,7 +115,7 @@ This section contains the details about the different projects made by the team.
 ### Project 1
 
 <!-- Add the summary of the project along with the link to the markdown file for the project. Check out the Sample Project.md to get the idea of the structure of the Project file.
- As the project name suggests TWR (Teleoperated wheeled Robot) is a terrain semi-autonomous robot which is controlled by an android app via bluetooth connectivity.
+--> As the project name suggests TWR (Teleoperated wheeled Robot) is a terrain semi-autonomous robot which is controlled by an android app via bluetooth connectivity.
  It has the following controls:
   move forward
   move backward
