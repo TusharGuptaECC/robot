@@ -62,9 +62,7 @@ SP0229 is an amazing team built by the efforts of its team members and the suppo
 
 Tushar Gupta<br>
 Sayandeep Das<br>
-Nisha Gehlot<br>
-Person4<br>
-Person5
+Nisha Gehlot
 
 ### Mentor
 
@@ -76,15 +74,14 @@ Daily Logs is an important activity planned by DSC MBM to motivate participants 
 
 ### Format
 
-The log should follow this structure
+
 
 ```
 Date:
 
   Tushar Gupta:
 
-    What have you done today:
-    Blockers/Challenegs you have faced:
+    
 
 	issue 1. - power consumption issue 
 	issue 2. - heavy weight of robot
@@ -118,26 +115,26 @@ This section contains the details about the different projects made by the team.
 ### Project 1
 
 <!-- Add the summary of the project along with the link to the markdown file for the project. Check out the Sample Project.md to get the idea of the structure of the Project file.
--->  As the project name suggests TWR (Teleoperated wheeled Robot) is a terrain semi-autonomous robot which is controlled by an android app via bluetooth connectivity.
--->  It has the following controls:
--->  move forward
--->  move backward
--->  halt any motion
--->  hard right turn ( TWR turns right without changing its position )
--->  hard left turn ( TWR turns left without changing its position )
--->  soft right turn ( TWR turns right with change in its position )
--->  soft left turn ( TWR turns left with change in its position )
--->  HARDWARE USED
--->  2x 12 volts BO motors with wheels
--->  1x Arduino UNO board
--->  HC-05 (bluetooth module)
--->  7x Hi-Watt 9 volts battries
--->  bread boards and jumper wires
--->  SOFTWARE USED
--->  VS Code as code editor
--->  avr-gcc compiler
--->  git ( for compiling and downloading the code to arduino )
--->  HC-05 terminal ( bluetooth control app for android )
+ As the project name suggests TWR (Teleoperated wheeled Robot) is a terrain semi-autonomous robot which is controlled by an android app via bluetooth connectivity.
+ It has the following controls:
+  move forward
+  move backward
+  halt any motion
+  hard right turn ( TWR turns right without changing its position )
+  hard left turn ( TWR turns left without changing its position )
+  soft right turn ( TWR turns right with change in its position )
+  soft left turn ( TWR turns left with change in its position )
+  HARDWARE USED
+  2x 12 volts BO motors with wheels
+  1x Arduino UNO board
+  HC-05 (bluetooth module)
+  7x Hi-Watt 9 volts battries
+  bread boards and jumper wires
+  SOFTWARE USED
+  VS Code as code editor
+  avr-gcc compiler
+  git ( for compiling and downloading the code to arduino )
+  HC-05 terminal ( bluetooth control app for android )
 ### Project 2
 
 ## License
