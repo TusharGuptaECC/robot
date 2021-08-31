@@ -117,23 +117,23 @@ This section contains the details about the different projects made by the team.
 <!-- Add the summary of the project along with the link to the markdown file for the project. Check out the Sample Project.md to get the idea of the structure of the Project file.
 --> As the project name suggests TWR (Teleoperated wheeled Robot) is a terrain semi-autonomous robot which is controlled by an android app via bluetooth connectivity.
  It has the following controls:<br>
-  move forward
-  move backward
-  halt any motion
-  hard right turn ( TWR turns right without changing its position )
-  hard left turn ( TWR turns left without changing its position )
-  soft right turn ( TWR turns right with change in its position )
-  soft left turn ( TWR turns left with change in its position )
-  HARDWARE USED
-  2x 12 volts BO motors with wheels
-  1x Arduino UNO board
-  HC-05 (bluetooth module)
-  7x Hi-Watt 9 volts battries
-  bread boards and jumper wires
-  SOFTWARE USED
-  VS Code as code editor
-  avr-gcc compiler
-  git ( for compiling and downloading the code to arduino )
+  move forward<br>
+  move backward<br>
+  halt any motion<br>
+  hard right turn ( TWR turns right without changing its position )<br>
+  hard left turn ( TWR turns left without changing its position )<br>
+  soft right turn ( TWR turns right with change in its position )<br>
+  soft left turn ( TWR turns left with change in its position )<br>
+  HARDWARE USED<br>
+  2x 12 volts BO motors with wheels<br>
+  1x Arduino UNO board<br>
+  HC-05 (bluetooth module)<br>
+  7x Hi-Watt 9 volts battries<br>
+  bread boards and jumper wires<br>
+  SOFTWARE USED<br>
+  VS Code as code editor<br>
+  avr-gcc compiler<br>
+  git ( for compiling and downloading the code to arduino )<br>
   HC-05 terminal ( bluetooth control app for android )
 ### Project 2
 
